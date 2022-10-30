@@ -43,7 +43,7 @@
 
                     document.querySelector("h1").innerHTML 
 
-                        = (playier2 + " WINS!"); 
+                        = (player2 + " WINS!"); 
 
                 } 
 
